@@ -1,6 +1,1 @@
-## Web Portofolio
-
-> **Created by Antono**
-
-
- - new libraray use : https://github.com/bagusindrayana/scrollpage-js
+Last updated: 2026-07-31 15:40:51 WIB
